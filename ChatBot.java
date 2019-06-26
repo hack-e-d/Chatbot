@@ -1,3 +1,4 @@
+//Basic greatings and question retrival
 import java.util.*;
 import java.io.*;
 
